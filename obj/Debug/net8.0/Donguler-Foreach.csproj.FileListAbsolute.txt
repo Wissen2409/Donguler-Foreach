@@ -1,0 +1,14 @@
+/Users/emrahelis/Donguler-Foreach/bin/Debug/net8.0/Donguler-Foreach
+/Users/emrahelis/Donguler-Foreach/bin/Debug/net8.0/Donguler-Foreach.deps.json
+/Users/emrahelis/Donguler-Foreach/bin/Debug/net8.0/Donguler-Foreach.runtimeconfig.json
+/Users/emrahelis/Donguler-Foreach/bin/Debug/net8.0/Donguler-Foreach.dll
+/Users/emrahelis/Donguler-Foreach/bin/Debug/net8.0/Donguler-Foreach.pdb
+/Users/emrahelis/Donguler-Foreach/obj/Debug/net8.0/Donguler-Foreach.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emrahelis/Donguler-Foreach/obj/Debug/net8.0/Donguler-Foreach.AssemblyInfoInputs.cache
+/Users/emrahelis/Donguler-Foreach/obj/Debug/net8.0/Donguler-Foreach.AssemblyInfo.cs
+/Users/emrahelis/Donguler-Foreach/obj/Debug/net8.0/Donguler-Foreach.csproj.CoreCompileInputs.cache
+/Users/emrahelis/Donguler-Foreach/obj/Debug/net8.0/Donguler-Foreach.dll
+/Users/emrahelis/Donguler-Foreach/obj/Debug/net8.0/refint/Donguler-Foreach.dll
+/Users/emrahelis/Donguler-Foreach/obj/Debug/net8.0/Donguler-Foreach.pdb
+/Users/emrahelis/Donguler-Foreach/obj/Debug/net8.0/Donguler-Foreach.genruntimeconfig.cache
+/Users/emrahelis/Donguler-Foreach/obj/Debug/net8.0/ref/Donguler-Foreach.dll
