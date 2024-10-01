@@ -12,3 +12,4 @@
 /Users/emrahelis/Donguler-Foreach/obj/Debug/net8.0/Donguler-Foreach.pdb
 /Users/emrahelis/Donguler-Foreach/obj/Debug/net8.0/Donguler-Foreach.genruntimeconfig.cache
 /Users/emrahelis/Donguler-Foreach/obj/Debug/net8.0/ref/Donguler-Foreach.dll
+/Users/emrahelis/Donguler-Foreach/obj/Debug/net8.0/Donguler-Foreach.sourcelink.json
